@@ -1,0 +1,11 @@
+---
+title: "Index"
+author: "Arianna Kazemi"
+date: "2/26/2020"
+output: html_document
+---
+
+
+* [Lab 2](lab2B_AK.html)
+
+
