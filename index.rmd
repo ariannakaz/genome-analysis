@@ -3,9 +3,17 @@ title: "Index"
 author: "Arianna Kazemi"
 date: "2/26/2020"
 output: html_document
+bibliography: references.bib
+
 ---
 
 
 * [Lab 2](lab2B_AK.html)
+* [Lab 3](lab3_AK.html)
+* [Lab 4](lab4_AK.html)
+* [Lab 5](lab5_AK.html)
 
 
+Application written in R [@RCoreTeam] using the Shiny framework [@Chang2015].
+
+# REFERENCES
