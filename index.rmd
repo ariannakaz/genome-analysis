@@ -9,9 +9,9 @@ bibliography: references.bib
 
 
 * [Lab 2](lab2B_AK.html)
-* [Lab 3](lab3_AK.html)
-* [Lab 4](lab4_AK.html)
-* [Lab 5](lab5_AK.html)
+* [Lab 3](Lab3_AK.html)
+* [Lab 4](Lab4_AK.html)
+* [Lab 5](Lab5_AK.html)
 
 
 Application written in R [@RCoreTeam] using the Shiny framework [@Chang2015].
