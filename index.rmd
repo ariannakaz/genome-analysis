@@ -15,6 +15,7 @@ bibliography: references.bib
 * [Lab 7](lab7_AK.html)
 * [Lab 9: Covid-19](Covid-19_AK.html)
 * [Lab 10: Covid-19 Animations](lab10_AK.html)
+* [Covid Website](https://akazemi.shinyapps.io/lab11/)
 
 
 Application written in R [@RCoreTeam] using the Shiny framework [@Chang2015].
