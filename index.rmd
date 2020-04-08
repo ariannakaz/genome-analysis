@@ -13,7 +13,8 @@ bibliography: references.bib
 * [Lab 4](Lab4_AK.html)
 * [Lab 5](Lab5_AK.html)
 * [Lab 7](lab7_AK.html)
-* [Covid-19](Covid-19_AK.html)
+* [Lab 9: Covid-19](Covid-19_AK.html)
+* [Lab 10: Covid-19 Animations](lab10_AK.html)
 
 
 Application written in R [@RCoreTeam] using the Shiny framework [@Chang2015].
